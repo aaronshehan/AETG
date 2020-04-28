@@ -1,0 +1,6 @@
+Aaron Shehan
+CSCE 3444
+Homework #1 - AETG implementation
+
+1. To Compile: with g++ -O3 aetg.cpp
+2. To run: ./a.out
